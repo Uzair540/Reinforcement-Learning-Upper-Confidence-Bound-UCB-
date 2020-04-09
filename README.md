@@ -1,5 +1,5 @@
-# Reinforcement-Learning-Upper-Confidence-Bound-UCB-
-## Implementing Machine Learning Algorithm : Reinforcement Learning Upper Confidence Bound (UCB) on the data-set of Ads_CTR_Optimization
+# Reinforcement Learning Upper Confidence Bound UCB
+## Implementing Machine Learning Algorithm : Reinforcement Learning Upper Confidence Bound (UCB) on the data-set of Ads CTR Optimization
 ### Upper Confidence Bound (UCB)
 #### The multi-armed Bandit Problem
 Trying to find the optimal option among many possible options as quickly as possible, with minimal exploration of other options which have high disadvantage in money (resources) and time. For example, if an Advertising company has 5 advertisement options, they need to find the best one to publish. In order to do this, they might to AB testing. But if they do too much AB testing, then it is just as same as utilizing all 5 options which is not ideal. Therefore, through reinforcement learning, the company needs to find the optimal option quickly.
